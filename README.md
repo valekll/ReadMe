@@ -36,3 +36,6 @@ Project4 (C++)
   
 cs1302-arcade (Java)
   - A JavaFX program that allows a user to play Checkers or Snake. Pair programmed.
+
+MIPS_Assembly (MIPS Assembly)
+  - A few basic programs in the MIPS 32 bit Assembly language.
