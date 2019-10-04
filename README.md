@@ -32,6 +32,10 @@ gpa_calc (C++)
 wealthcalc (Python)
   - A personal project that is a calculator for projected wealth growth given certain investment environments.
   
+IdleRPGInventory (Python)
+  - A personal project that quicksorts a list of inventory items for a discord bot, and outputs the best merges
+    to upgrade weapons the most efficiently.
+  
 List of Private Projects:
 
 Project-Final (C++)
