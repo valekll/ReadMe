@@ -28,6 +28,9 @@ OldHelloDungeon (Java)
 gpa_calc (C++)
   - A personal project that is a calculator for GPA's using text files containing grades as command line 
     arguments. Sorts classes via mergesort and cleanly displays grade break downs.
+    
+wealthcalc (Python)
+  - A personal project that is a calculator for projected wealth growth given certain investment environments.
   
 List of Private Projects:
 
