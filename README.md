@@ -2,7 +2,7 @@
 
 POTENTIAL EMPLOYERS PLEASE READ
 
-An overwhelming majority of the projects on here are private due to limitations imposed by the
+A significant amount of the projects on here are private due to limitations imposed by the
 Academic Honesty Policies of the University of Georgia. In regards to this, simply send me a
 request to view any of the listed projects below via email. Thanks!
 
