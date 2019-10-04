@@ -21,6 +21,10 @@ HelloDungeon (Java)
 HelloDungeonGame (C++)
   - A personal project that was an attempt to move the HelloDungeon project into C++. Mostly just ended up
     being a experiment in the Vulkan API. It is still a work in progress.
+    
+gpa_calc (C++)
+  - A personal project that is a calculator for GPA's using text files containing grades as command line 
+    arguments. Sorts classes via mergesort and cleanly displays grade break downs.
   
 List of Private Projects:
 
