@@ -35,6 +35,9 @@ wealthcalc (Python)
 IdleRPGInventory (Python)
   - A personal project that quicksorts a list of inventory items for a discord bot, and outputs the best merges
     to upgrade weapons the most efficiently.
+    
+fitlog (Java)
+  - A personal project to relearn Android app development. It is still a work in progress.
   
 List of Private Projects:
 
