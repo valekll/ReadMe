@@ -7,6 +7,7 @@ Academic Honesty Policies of the University of Georgia. In regards to this, simp
 request to view any of the listed projects below via email. Thanks!
 
 List of Public Projects:
+
 FHB (Java)
   - A project developed at a Hackathon as an experiment to play around in the JavaFX API.
 Puppy_Plaza (Java)
@@ -19,6 +20,7 @@ HelloDungeonGame (C++)
     being a experiment in the Vulkan API. It is still a work in progress.
   
 List of Private Projects:
+
 Project-Final (C++)
   - A shell program for Linux. Pair Programmed.
 Project4 (C++)
